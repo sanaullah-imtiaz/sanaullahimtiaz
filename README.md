@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanaullahimtiaz
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Machine Learning, Data Science
+- 🌱 I’m currently working on Python
 - 💞️ I’m looking to collaborate on Python related quries
 - 📫 Reach me through email sanaullah.imtiaz.pk@gmail.com
 
